@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Social data 2022 Final project</title>
+    <link>http://socialdata_blog.github.io/posts/</link>
+    <description>Recent content in Posts on Social data 2022 Final project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Apr 2022 10:33:27 +0200</lastBuildDate><atom:link href="http://socialdata_blog.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This is a title</title>
+      <link>http://socialdata_blog.github.io/posts/firstpost/</link>
+      <pubDate>Tue, 26 Apr 2022 10:33:27 +0200</pubDate>
+      
+      <guid>http://socialdata_blog.github.io/posts/firstpost/</guid>
+      <description>Header two I am writing somethin
+hello</description>
+    </item>
+    
+  </channel>
+</rss>
