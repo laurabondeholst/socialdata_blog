@@ -2,7 +2,3 @@
 	path = public
 	url = https://github.com/laurabondeholst/socialdata_blog.github.io
 	branch = main
-[submodule "socialdata_hugoblog/public/socialdata_blog.github.io"]
-	path = socialdata_hugoblog/public/socialdata_blog.github.io
-	url = https://github.com/laurabondeholst/socialdata_blog.github.io
-	branch = main
